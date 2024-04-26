@@ -1,0 +1,29 @@
+.backgroundcolor {
+    background-color: #e74c3c;
+    font-size: larger;
+}
+
+.textkleur {
+    color: #bdc3c7 ;
+    font-size: larger;
+    font-style: italic;
+}
+
+.textachtergrond {
+    color: #001f3f;
+}
+
+.footerachtergrond {
+background-color: #001f3f;
+
+}
+
+.contact  {
+    color: #bdc3c7;
+    background-color: #e74c3c;
+    font-size: x-large;
+}
+
+.hoofdlogo {
+    margin: auto;
+}
