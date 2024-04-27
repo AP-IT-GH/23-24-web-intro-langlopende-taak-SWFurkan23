@@ -9,13 +9,16 @@
     font-style: italic;
 }
 
+.beschrijving {
+    color: #e74c3c;
+}
+
 .textachtergrond {
     color: #001f3f;
 }
 
 .footerachtergrond {
 background-color: #001f3f;
-
 }
 
 .contact  {
@@ -26,4 +29,8 @@ background-color: #001f3f;
 
 .hoofdlogo {
     margin: auto;
+}
+
+.buttonsd {
+    background-color: #e74c3c;
 }
