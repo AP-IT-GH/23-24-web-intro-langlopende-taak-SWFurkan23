@@ -39,3 +39,12 @@ ul {
     text-align: center;
     list-style-position: inside;
 }
+
+.search-container {
+    text-align: center;
+    padding: 20px 0;
+}
+
+.d-flex {
+    justify-content: center;
+  }
